@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+
+h1{
+     width: 100%;
+     background-color: black;
+     color : aliceblue;
+}
+
+.lkg{
+   padding: 15px;
+   margin: 15px;
+   background-color: rgb(1, 10, 13) ;
+}    
+
+.content{
+    background-color: rgb(15, 20, 22) ;
+    color: azure;
+    padding: 20px;
+    margin: 20px;
+}
+.contenttext{
+    background-color: rgb(22, 33, 33);
+    color: antiquewhite;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+    padding: 5px;
+    
+}
+
